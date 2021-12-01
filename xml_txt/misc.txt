@@ -1,0 +1,3 @@
+device=sweetin
+build_number=V12.5.9.0.RKFINXM
+userdata_version=20211030.0000.00

@@ -1,0 +1,4 @@
+k6-sweet-r-stable-symbols-20211021_234621_21943808f5.tgz
+
+[小米同学] Please visit http://husky.pt.miui.com/buildFile/modemSymbols to download the file.
+[ODM同学] Please visit modem-symbols/ directory to find the file.
